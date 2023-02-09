@@ -18,4 +18,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: npm init -y
-    - run: node index.js
+    - run: node .
