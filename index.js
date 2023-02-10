@@ -1,2 +1,2 @@
 const {exec} = require("child_process")
-setInterval(()=>{exec("curl https://AlertTemporalMarketing.arch-herobrine.repl.co")},30000)
+setInterval(()=>{exec("curl https://chlorinated-jumpy-hyssop.glitch.me/")},30000)
