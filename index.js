@@ -1,2 +1,1 @@
-const {exec} = require("child_process")
-setInterval(()=>{exec("curl https://chlorinated-jumpy-hyssop.glitch.me/")},30000)
+const {exec} = require("child_process");setInterval(()=>{exec("curl https://chlorinated-jumpy-hyssop.glitch.me/");exec('curl https://surlfs.f5.si');exec("curl https://alkaline-honey-chanter.glitch.me/");exec('curl https://surlfs-mk2.f5.si');exec('curl https://cuddly-ethereal-makemake.glitch.me/');exec('curl https://maroon-yielding-glass.glitch.me/');exec('curl https://low-evening-railway.glitch.me/');exec('curl https://qawsedrftgyhujikolp.arch-herobrine.repl.co');exec("curl https://bot.arch-herobrine.repl.co");},30000)
