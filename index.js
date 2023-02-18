@@ -1,5 +1,5 @@
 const {exec} = require("child_process");
-setInterval(()=>{exec("curl https://chlorinated-jumpy-hyssop.glitch.me/");
+setInterval(()=>{exec("curl https://arch-herobrine.glitch.me/");
                  exec('curl https://surlfs.f5.si');
                  exec("curl https://verbose-fresh-sphere.glitch.me/");
                  exec('curl https://opposite-soft-citrus.glitch.me/');
