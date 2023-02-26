@@ -7,4 +7,5 @@ setInterval(()=>{exec("curl https://arch-herobrine.glitch.me/");
                  exec('curl https://cottony-curvy-carpet.glitch.me/');
                  exec('curl https://qawsedrftgyhujikolp.arch-herobrine.repl.co');
                  exec("curl https://bot.arch-herobrine.repl.co");
+                 exec("curl https://ytproxy.arch-herobrine.repl.co");
                 },30000)
